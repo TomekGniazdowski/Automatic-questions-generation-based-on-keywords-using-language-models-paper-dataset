@@ -1,0 +1,183 @@
+,field_description,field_type,ground_truth
+0,Wypłacono zaliczkę,Checkbox,Czy wypłacono zaliczkę?
+1,Opis błędu w zleceniu płatności,TextArea,Podaj proszę opis błędu w zleceniu płatności.
+2,Opis płatności zaliczki,TextArea,Podaj proszę opis płatności zaliczki.
+3,Data płatności,DateField,Podaj proszę datę płatności.
+4,Kwota zaliczki,TextArea,Ile wynosi kwota zaliczki?
+5,Rachunek przelewu,DropList,Wybierz proszę rachunek przelewu z listy.
+6,Zlecenie płatności zaliczki w PLN,AttachmentField,Załącz proszę zlecenie płatności zaliczki w pln w formie pliku.
+7,Opis błędu w zleceniu płatności,TextArea,Podaj proszę opis błędu w zleceniu płatności.
+8,Opis płatności,TextArea,Podaj proszę opis płatności.
+9,Data płatności,DateField,Podaj proszę datę płatności.
+10,Rachunek przelewu,DropList,Wybierz proszę rachunek przelewu z listy.
+11,Zlecenie płatności,AttachmentField,Załącz proszę zlecenie płatności w formie pliku.
+12,Kategoria wydatku,TextArea,Podaj proszę kategorię wydatku.
+13,Kwota brutto rachunków,TextArea,Ile wynosi kwota brutto rachunków?
+14,Waluta kosztów rachunków,TextArea,Podaj proszę walutę kosztów rachunków.
+15,Nośnik kosztu rachunków,DropList,Wybierz proszę nośnik kosztu rachunków z listy.
+16,Szacowana wartość innych istotnych kosztów,TextArea,Ile wynosi szacowana wartość innych istotnych kosztów?
+17,Waluta innych istotnych kosztów,DropList,Wybierz proszę walutę innych istotnych kosztów z listy.
+18,Opis innych istotnych kosztów,TextArea,Podaj proszę opis innych istotnych kosztów.
+19,Kwota zaliczki,TextArea,Ile wynosi kwota zaliczki?
+20,Waluta zaliczki,DropList,Wybierz proszę walutę zaliczki z listy.
+21,Zaliczka zwrócona,Checkbox,Czy zaliczka została zwrócona?
+22,Delegacja została zrealizowana?,RadioButton,Czy delegacja została zrealizowana?
+23,Powód nie zrealizowania delegacji,TextArea,Podaj proszę powód nie zrealizowania delegacji.
+24,Uwagi,TextArea,Podaj proszę uwagi.
+25,Termin wyjazdu,DateField,Podaj proszę termin wyjazdu.
+26,Termin powrotu,DateField,Podaj proszę termin powrotu.
+27,ID,TextArea,Podaj proszę id.
+28,MPK,DropList,Wybierz proszę mpk z listy.
+29,Zgłoszenie delegacji z datą wsteczną,Checkbox,Czy zgłoszenie delegacji jest z datą wsteczną?
+30,Delegacja w ramach projektu,Checkbox,Czy delegacja jest w ramach projektu?
+31,Nazwa klienta,TextArea,Podaj proszę nazwę klienta.
+32,Cel wyjazdu,TextArea,Podaj proszę cel wyjazdu.
+33,Komentarz po poprawie,TextArea,Podaj proszę komentarz po poprawie.
+34,Uwagi zarządu,TextArea,Podaj proszę uwagi zarządu.
+35,Kwota do zwrotu w PLN,TextArea,Ile wynosi kwota do zwrotu w pln?
+36,Waluta zwrotu,TextArea,Podaj proszę walutę zwrotu.
+37,Uregulowano płatność,Checkbox,Czy uregulowano płatność?
+38,Kwota do wypłaty przez firmę,TextArea,Ile wynosi kwota do wypłaty przez firmę?
+39,Waluta wypłaty,TextArea,Podaj proszę walutę wypłaty.
+40,Kwota do zwrotu przez pracownika,TextArea,Ile wynosi kwota do zwrotu przez pracownika?
+41,Waluta zwrotu,TextArea,Podaj proszę walutę zwrotu.
+42,Dieta w PLN,TextArea,Ile wynosi dieta w pln?
+43,Kwota rachunków PLN,TextArea,Ile wynosi kwota rachunków w pln?
+44,Kwota rachunków w walucie,TextArea,Ile wynosi kwota rachunków w walucie?
+45,Sumaryczna wartość kosztów rozliczanych w PLN,TextArea,Ile wynosi sumaryczna wartość kosztów rozliczanych w pln?
+46,Kwota do wypłaty przez firmę w walucie,TextArea,Ile wynosi kwota do wypłaty przez firmę w walucie?
+47,Waluta wypłaty,DropList,Wybierz proszę walutę wypłaty z listy.
+48,Wypłacono pieniądze,Checkbox,Czy wypłacono pieniądze?
+49,Kwota do zwrotu w walucie,TextArea,Ile wynosi kwota do zwrotu w walucie?
+50,Waluta zwrotu,DropList,Wybierz proszę walutę zwrotu z listy.
+51,Uregulowano płatność,Checkbox,Czy uregulowano płatność?
+52,Kwota wypłacanej zaliczki,TextArea,Ile wynosi kwota wypłacanej zaliczki?
+53,Waluta wypłacanej zaliczki,DropList,Wybierz proszę walutę wypłacanej zaliczki z listy.
+54,Forma wypłaty wypłacanej zaliczki,DropList,Wybierz proszę formę wypłaty wypłacanej zaliczki z listy.
+55,Typ delegacji,RadioButton,Wybierz proszę typ delegacji.
+56,Miasto / region delegacji,DropList,Wybierz proszę miasto lub region delegacji z listy.
+57,Wykorzystaj dane z poprzedniej delegacji,Checkbox,Czy wykorzystać dane z poprzedniej delegacji?
+58,Daty delegacji,DropList,Wybierz proszę daty delegacji z listy.
+59,Komentarz Wnioskującego,TextArea,Podaj proszę komentarz wnioskującego.
+60,Numer rachunku bankowego,TextArea,Podaj proszę numer rachunku bankowego.
+61,Numer rachunku bankowego,DropList,Wybierz proszę numer rachunku bankowego z listy.
+62,Waluta rachunku,DropList,Wybierz proszę walutę rachunku z listy.
+63,Waluta rachunku bankowego,TextArea,Podaj proszę walutę rachunku bankowego.
+64,Użyj zapisanego numeru rachunku,Checkbox,Czy użyć zapisanego numeru rachunku?
+65,Waluta,TextArea,Podaj proszę walutę.
+66,Łącznie kwota rachunków w walucie obcej,TextArea,Ile wynosi łącznie kwota rachunków w walucie obcej?
+67,Rozlicz w PLN,Checkbox,Czy rozliczyć w pln?
+68,Kwota brutto rachunków w PLN,TextArea,Ile wynosi kwota brutto rachunków w pln?
+69,Odpowiedź wnioskującego,TextArea,Podaj proszę odpowiedź wnioskującego.
+70,Uwaga do wnioskującego,TextArea,Podaj proszę uwagę do wnioskującego.
+71,Komentarz,TextArea,Podaj proszę komentarz.
+72,Komentarz,TextArea,Podaj proszę komentarz.
+73,Uwagi przełożonego,TextArea,Podaj proszę uwagi przełożonego.
+74,Akceptujesz rozliczenie?,RadioButton,Czy akceptujesz rozliczenie?
+75,Uwagi,TextArea,Podaj proszę uwagi.
+76,Imię i nazwisko przełożonego wnioskującego,TextArea,Podaj proszę imię i nazwisko przełożonego wnioskującego.
+77,Departament przełożonego,TextArea,Podaj proszę departament przełożonego.
+78,Uwagi,TextArea,Podaj proszę uwagi.
+79,Akceptujesz rozliczenie?,RadioButton,Czy akceptujesz rozliczenie?
+80,Uwagi,TextArea,Podaj proszę uwagi.
+81,Delegowany pracownik,DropList,Wybierz proszę delegowanego pracownika z listy.
+82,Delegowany pracownik,TextArea,Kim jest delegowany pracownik?
+83,Wniosek w imieniu innej osoby,Checkbox,Czy wniosek jest w imieniu innej osoby?
+84,Data składania wniosku,DateField,Podaj proszę datę składania wniosku.
+85,Uwagi,TextArea,Podaj proszę uwagi.
+86,Łącznie kwota brutto kosztów rachunków w pln,TextArea,Ile wynosi łącznie kwota brutto kosztów rachunków w pln?
+87,Zaliczka do wypłaty,RadioButton,Czy zaliczka jest do wypłaty?
+88,Uwaga do wnioskującego,TextArea,Podaj proszę uwagę do wnioskującego.
+89,Wyjazd z siedziby/rozpoczęcie podróży,DateField,Podaj proszę datę wyjazdu z siedziby lub rozpoczęcia podróży.
+90,Przekroczenie granicy Polski - wyjazd,DateField,Podaj proszę datę przekroczenia granicy Polski wyjazd.
+91,Data rozliczenia,DateField,Podaj proszę datę rozliczenia.
+92,Zakończenie podróży,DateField,Podaj proszę datę zakończenia podróży.
+93,Przekroczenie granicy Polski - wjazd,DateField,Podaj proszę datę przekroczenia granicy Polski wjazd.
+94,Wartość diety,TextArea,Ile wynosi wartość diety?
+95,Waluta diety,TextArea,Podaj proszę walutę diety.
+96,Kurs waluty diety,TextArea,Podaj proszę kurs waluty diety.
+97,Wartość diety w PLN,TextArea,Ile wynosi wartość diety w pln?
+98,Kwota do zwrotu przez pracownika w walucie,TextArea,Ile wynosi kwota do zwrotu przez pracownika w walucie?
+99,Waluta zwrotu,DropList,Wybierz proszę walutę zwrotu z listy.
+100,Zatwierdzasz rozliczenie?,RadioButton,Czy zatwierdzasz rozliczenie?
+101,Uwagi,TextArea,Podaj proszę uwagi.
+102,Zatwierdzasz koszty?,RadioButton,Czy zatwierdzasz koszty?
+103,Uwagi,TextArea,Podaj proszę uwagi.
+104,Kraj delegacji,DropList,Wybierz proszę kraj delegacji z listy.
+105,Kraj,TextArea,Podaj proszę kraj.
+106,Miejscowość / region delegacji,TextArea,Podaj proszę miejscowość lub region delegacji.
+107,"Liczba noclegów, za które przysługuje ryczałt",TextArea,Ile wynosi liczba noclegów za które przysługuje ryczałt?
+108,"Liczba dni, za które przysługuje ryczałt za dojazd",TextArea,Ile wynosi liczba dni za które przysługuje ryczałt za dojazd?
+109,Kwota ryczałtu za dojazd,TextArea,Ile wynosi kwota ryczałtu za dojazd?
+110,Ryczałt za dojazd do/ z lotniska/ dworca/ portu,DropList,Wybierz proszę ryczałt za dojazd do lub z lotniska lub dworca lub portu z listy.
+111,"Liczba noclegów, za które przysługuje ryczałt",TextArea,Ile wynosi liczba noclegów za które przysługuje ryczałt?
+112,"Liczba dni, za które przysługuje ryczałt za dojazd",TextArea,Ile wynosi liczba dni za które przysługuje ryczałt za dojazd?
+113,Posiłki,DropList,Wybierz proszę posiłki z listy.
+114,Liczba zagranicznych śniadań,TextArea,Ile wynosi liczba zagranicznych śniadań?
+115,Liczba zagranicznych obiadów,TextArea,Ile wynosi liczba zagranicznych obiadów?
+116,Liczba zagranicznych kolacji,TextArea,Ile wynosi liczba zagranicznych kolacji?
+117,Posiłki krajowe,DropList,Wybierz proszę posiłki krajowe z listy.
+118,Liczba krajowych śniadań,TextArea,Ile wynosi liczba krajowych śniadań?
+119,Liczba krajowych obiadów,TextArea,Ile wynosi liczba krajowych obiadów?
+120,Liczba krajowych kolacji,TextArea,Ile wynosi liczba krajowych kolacji?
+121,Skan faktury/paragonu,AttachmentField,Załącz proszę skan faktury lub paragonu w formie pliku.
+122,Numer faktury/paragonu,TextArea,Podaj proszę numer faktury lub paragonu.
+123,Data wystawienia rachunku,DateField,Podaj proszę datę wystawienia rachunku.
+124,Opis rachunku,TextArea,Podaj proszę opis rachunku.
+125,Kategoria wydatku,DropList,Wybierz proszę kategorię wydatku z listy.
+126,Dostawca rachunku,TextArea,Kim jest dostawca rachunku?
+127,Typ płatności rachunku,DropList,Wybierz proszę typ płatności rachunku z listy.
+128,Nośnik kosztu rachunku,DropList,Wybierz proszę nośnik kosztu rachunku z listy.
+129,Waluta rachunku,DropList,Wybierz proszę walutę rachunku z listy.
+130,Kwota brutto w PLN,TextArea,Ile wynosi kwota brutto w pln?
+131,Kwota brutto,TextArea,Ile wynosi kwota brutto?
+132,Potwierdzenie płatności rachunku,AttachmentField,Załącz proszę potwierdzenie płatności rachunku w formie pliku.
+133,Szacowany koszt diet,TextArea,Ile wynosi szacowany koszt diet?
+134,Szacowany koszt transportów,TextArea,Ile wynosi szacowany koszt transportów?
+135,Szacowany koszt noclegów,TextArea,Ile wynosi szacowany koszt noclegów?
+136,Szacowane inne  koszty,TextArea,Ile wynoszą szacowane inne koszty?
+137,Suma szacowanych kosztów,TextArea,Ile wynosi suma szacowanych kosztów?
+138,Potrzebna zaliczka,Checkbox,Czy potrzebna jest zaliczka?
+139,Kwota zaliczki,TextArea,Ile wynosi kwota zaliczki?
+140,Waluta zaliczki,DropList,Wybierz proszę walutę zaliczki z listy.
+141,Użyj zapisanego rachunku do zaliczki,Checkbox,Czy użyć zapisanego rachunku do zaliczki?
+142,Forma wypłaty zaliczki,DropList,Wybierz proszę formę wypłaty zaliczki z listy.
+143,Numer rachunku bankowego,TextArea,Podaj proszę numer rachunku bankowego.
+144,Numer rachunku bankowego do zaliczki,DropList,Wybierz proszę numer rachunku bankowego do zaliczki z listy.
+145,Przeznaczenie zaliczki,TextArea,Podaj proszę przeznaczenie zaliczki.
+146,Uwagi wnioskującego,TextArea,Podaj proszę uwagi wnioskującego.
+147,Szacowany koszt noclegów,TextArea,Ile wynosi szacowany koszt noclegów?
+148,Waluta kosztów noclegów,DropList,Wybierz proszę walutę kosztów noclegów z listy.
+149,Środek transportu,DropList,Wybierz proszę środek transportu z listy.
+150,Szacowany koszt transportów,TextArea,Ile wynosi szacowany koszt transportów?
+151,Waluta kosztów transportu,DropList,Wybierz proszę walutę kosztów transportu z listy.
+152,Czy akceptujesz delegację?,RadioButton,Czy akceptujesz delegację?
+153,Uwagi przełożonego,TextArea,Podaj proszę uwagi przełożonego.
+154,Potwierdź dostępność środków w budżecie,Checkbox,Czy potwierdzasz dostępność środków w budżecie?
+155,Twoje imię i nazwisko,TextArea,Podaj proszę twoje imię i nazwisko.
+156,Twój telefon kontaktowy,TextArea,Podaj proszę twój telefon kontaktowy.
+157,Data zauważenia usterki,DateField,Podaj proszę datę zauważenia usterki.
+158,Opis usterki,TextArea,Podaj proszę opis usterki.
+159,Lokalizacja usterki,TextArea,Podaj proszę lokalizację usterki.
+160,Twój stopień znajomości Gita,TextArea,Podaj proszę twój stopień znajomości gita.
+161,Twój stopień znajomości Mikroserwisów,TextArea,Podaj proszę twój stopień znajomości mikroserwisów.
+162,Twój stopień znajomości Javascript,TextArea,Podaj proszę twój stopień znajomości javascript.
+163,Twój stopień znajomości Linuxa,TextArea,Podaj proszę twój stopień znajomości linuxa.
+164,Twoje minimalne wymagane wynagrodzenie netto w PLN,TextArea,Ile wynosi twoje minimalne wymagane wynagrodzenie netto w pln?
+165,Czy akceptujesz ten wniosek?,RadioButton,Czy akceptujesz ten wniosek?
+166,Poziom stanowiska,DropList,Wybierz proszę poziom stanowiska z listy.
+167,Wielkość firmy,DropList,Wybierz proszę wielkość firmy z listy.
+168,Lokalizacja firmy,DropList,Wybierz proszę lokalizację firmy z listy.
+169,Rodzaj umowy,DropList,Wybierz proszę rodzaj umowy z listy.
+170,Osoba zastępująca,DropList,Wybierz proszę osobę zastępującą z listy.
+171,Akceptujesz ten wniosek,RadioButton,Czy akceptujesz ten wniosek?
+172,Powód odmowy wniosku,TextArea,Podaj proszę powód odmowy wniosku.
+173,Możliwość uzupełnienia wniosku,RadioButton,Czy istnieje możliwość uzupełnienia wniosku?
+174,Dodatkowe informacje,TextArea,Podaj proszę dodatkowe informacje.
+175,Data rozpoczęcia urlopu,DateField,Podaj proszę datę rozpoczęcia urlopu.
+176,Data zakończenia urlopu,DateField,Podaj proszę datę zakończenia urlopu.
+177,Długość urlopu,TextArea,Ile wynosi długość urlopu?
+178,Urlop wymaga zastępstwa,RadioButton,Czy urlop wymaga zastępstwa?
+179,Rodzaj urlopu,DropList,Wybierz proszę rodzaj urlopu z listy.
+180,Data święta,DateField,Podaj proszę datę święta.
+181,Komentarz wnioskującego,TextArea,Podaj proszę komentarz wnioskującego.
